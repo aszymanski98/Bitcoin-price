@@ -62,7 +62,7 @@ export default class Crypro extends Component {
                         newCryptoList.push(newCryptoObj);
                     }
                     return ({
-                        cryptoList: newCryptoList
+                        cryptoList: newCryptoList,
                     });
                 });
                 this.filterCryptoList();
