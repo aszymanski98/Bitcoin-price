@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Crypto-rate-ReactJS/static/css/main.0568c1ff.chunk.css",
-    "main.js": "/Crypto-rate-ReactJS/static/js/main.02a96438.chunk.js",
-    "main.js.map": "/Crypto-rate-ReactJS/static/js/main.02a96438.chunk.js.map",
+    "main.css": "/Crypto-rate-ReactJS/static/css/main.e95b8392.chunk.css",
+    "main.js": "/Crypto-rate-ReactJS/static/js/main.1852341c.chunk.js",
+    "main.js.map": "/Crypto-rate-ReactJS/static/js/main.1852341c.chunk.js.map",
     "runtime-main.js": "/Crypto-rate-ReactJS/static/js/runtime-main.9e12ab41.js",
     "runtime-main.js.map": "/Crypto-rate-ReactJS/static/js/runtime-main.9e12ab41.js.map",
     "static/js/2.ef495069.chunk.js": "/Crypto-rate-ReactJS/static/js/2.ef495069.chunk.js",
     "static/js/2.ef495069.chunk.js.map": "/Crypto-rate-ReactJS/static/js/2.ef495069.chunk.js.map",
     "index.html": "/Crypto-rate-ReactJS/index.html",
-    "precache-manifest.ad793a04ed6a8b363d9d6059fee898cd.js": "/Crypto-rate-ReactJS/precache-manifest.ad793a04ed6a8b363d9d6059fee898cd.js",
+    "precache-manifest.d73b482f6ad1e501ec2b51c4e8af2ee4.js": "/Crypto-rate-ReactJS/precache-manifest.d73b482f6ad1e501ec2b51c4e8af2ee4.js",
     "service-worker.js": "/Crypto-rate-ReactJS/service-worker.js",
-    "static/css/main.0568c1ff.chunk.css.map": "/Crypto-rate-ReactJS/static/css/main.0568c1ff.chunk.css.map",
+    "static/css/main.e95b8392.chunk.css.map": "/Crypto-rate-ReactJS/static/css/main.e95b8392.chunk.css.map",
     "static/js/2.ef495069.chunk.js.LICENSE.txt": "/Crypto-rate-ReactJS/static/js/2.ef495069.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Crypto-rate-ReactJS/static/media/logo.d7876d48.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9e12ab41.js",
     "static/js/2.ef495069.chunk.js",
-    "static/css/main.0568c1ff.chunk.css",
-    "static/js/main.02a96438.chunk.js"
+    "static/css/main.e95b8392.chunk.css",
+    "static/js/main.1852341c.chunk.js"
   ]
 }
