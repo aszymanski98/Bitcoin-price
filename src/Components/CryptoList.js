@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './CryptoList.css';
+import '../Styles/CryptoList.css';
 
 const CryptoList = (props) => {
 

@@ -1,0 +1,55 @@
+.crypto-list {
+    margin:  20px 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0px;
+}
+
+.list li {
+    border: .5px solid #3f3f3f ;
+    line-height: 2;
+    margin-top: 5px;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media all and (min-width: 600px) {
+  .list li {
+    padding: 5px 50px;
+  }
+}
+
+.list li span {
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.list li span.currencyName{
+  margin-right: 0px;
+}
+
+.list li span.currencySymbol{
+  margin-left: 5px;
+}
+
+.list li .rate {
+    font-weight: normal;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color:#2f2fff;
+}
