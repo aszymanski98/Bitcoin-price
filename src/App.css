@@ -8,7 +8,7 @@ body {
 
 .App-logo {
   height: 25vmin;
-  pointer-events: none; 
+  pointer-events: none;
 }
 
 @media all and (min-width: 600px) {
@@ -47,5 +47,5 @@ body {
   margin: 10px 0px 0px 0px;
   font-weight: normal;
   font-size: 30px;
-  font-family: 'Architects Daughter', cursive;
+  font-family: "Architects Daughter", cursive;
 }

@@ -1,8 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
-import Crypto from './Components/Crypto';
+import Crypto from "./Components/Crypto";
 
 function App() {
   return (

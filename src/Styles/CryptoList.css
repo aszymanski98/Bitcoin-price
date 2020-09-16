@@ -1,22 +1,22 @@
 .crypto-list {
-    margin:  20px 10px;
-    display: flex;
-    justify-content: center;
+  margin: 20px 10px;
+  display: flex;
+  justify-content: center;
 }
 
 .list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0px;
 }
 
 .list li {
-    border: .5px solid #3f3f3f ;
-    line-height: 2;
-    margin-top: 5px;
-    padding: 5px 15px;
-    display: flex;
-    justify-content: space-between;
+  border: 0.5px solid #3f3f3f;
+  line-height: 2;
+  margin-top: 5px;
+  padding: 5px 15px;
+  display: flex;
+  justify-content: space-between;
 }
 
 @media all and (min-width: 600px) {
@@ -26,30 +26,30 @@
 }
 
 .list li span {
-    font-weight: bold;
-    margin: 0 10px;
+  font-weight: bold;
+  margin: 0 10px;
 }
 
-.list li span.currencyName{
+.list li span.currencyName {
   margin-right: 0px;
 }
 
-.list li span.currencySymbol{
+.list li span.currencySymbol {
   margin-left: 5px;
 }
 
 .list li .rate {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 .red {
-    color: red;
+  color: red;
 }
 
 .green {
-    color: green;
+  color: green;
 }
 
 .blue {
-    color:#2f2fff;
+  color: #2f2fff;
 }
