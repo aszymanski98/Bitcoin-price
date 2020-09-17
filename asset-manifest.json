@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Crypto-rate-ReactJS/static/css/main.34af5dae.chunk.css",
-    "main.js": "/Crypto-rate-ReactJS/static/js/main.b96144f5.chunk.js",
-    "main.js.map": "/Crypto-rate-ReactJS/static/js/main.b96144f5.chunk.js.map",
-    "runtime-main.js": "/Crypto-rate-ReactJS/static/js/runtime-main.9e12ab41.js",
-    "runtime-main.js.map": "/Crypto-rate-ReactJS/static/js/runtime-main.9e12ab41.js.map",
-    "static/js/2.ef495069.chunk.js": "/Crypto-rate-ReactJS/static/js/2.ef495069.chunk.js",
-    "static/js/2.ef495069.chunk.js.map": "/Crypto-rate-ReactJS/static/js/2.ef495069.chunk.js.map",
-    "index.html": "/Crypto-rate-ReactJS/index.html",
-    "precache-manifest.b9aac24cc532ca08225bc74e13c48c13.js": "/Crypto-rate-ReactJS/precache-manifest.b9aac24cc532ca08225bc74e13c48c13.js",
-    "service-worker.js": "/Crypto-rate-ReactJS/service-worker.js",
-    "static/css/main.34af5dae.chunk.css.map": "/Crypto-rate-ReactJS/static/css/main.34af5dae.chunk.css.map",
-    "static/js/2.ef495069.chunk.js.LICENSE.txt": "/Crypto-rate-ReactJS/static/js/2.ef495069.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Crypto-rate-ReactJS/static/media/logo.d7876d48.svg"
+    "main.css": "/Bitcoin-price-ReactJS/static/css/main.34af5dae.chunk.css",
+    "main.js": "/Bitcoin-price-ReactJS/static/js/main.be473a6c.chunk.js",
+    "main.js.map": "/Bitcoin-price-ReactJS/static/js/main.be473a6c.chunk.js.map",
+    "runtime-main.js": "/Bitcoin-price-ReactJS/static/js/runtime-main.c722ad1d.js",
+    "runtime-main.js.map": "/Bitcoin-price-ReactJS/static/js/runtime-main.c722ad1d.js.map",
+    "static/js/2.ef495069.chunk.js": "/Bitcoin-price-ReactJS/static/js/2.ef495069.chunk.js",
+    "static/js/2.ef495069.chunk.js.map": "/Bitcoin-price-ReactJS/static/js/2.ef495069.chunk.js.map",
+    "index.html": "/Bitcoin-price-ReactJS/index.html",
+    "precache-manifest.5ee30d82376af5940e04a42ca7843e6c.js": "/Bitcoin-price-ReactJS/precache-manifest.5ee30d82376af5940e04a42ca7843e6c.js",
+    "service-worker.js": "/Bitcoin-price-ReactJS/service-worker.js",
+    "static/css/main.34af5dae.chunk.css.map": "/Bitcoin-price-ReactJS/static/css/main.34af5dae.chunk.css.map",
+    "static/js/2.ef495069.chunk.js.LICENSE.txt": "/Bitcoin-price-ReactJS/static/js/2.ef495069.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Bitcoin-price-ReactJS/static/media/logo.d7876d48.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e12ab41.js",
+    "static/js/runtime-main.c722ad1d.js",
     "static/js/2.ef495069.chunk.js",
     "static/css/main.34af5dae.chunk.css",
-    "static/js/main.b96144f5.chunk.js"
+    "static/js/main.be473a6c.chunk.js"
   ]
 }
