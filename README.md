@@ -1,5 +1,5 @@
 # Bitcoin price
-This app allows You to check Bitcoin actual price in many currencies, filter them and it is always up to date with market changes.
+This app allows user to check Bitcoin actual price in many currencies, filter them and it is always up to date with market changes.
 
 ## Table of contents
 * [Demo](#demo)
