@@ -26,7 +26,7 @@ export default class Crypro extends Component {
   }
 
   getCryptoData = () => {
-    axios.get("https://blockchain.info/pl/ticker").then((res) => {
+    axios.get("https://blockchain.info/ticker").then((res) => {
       const tickers = res.data;
 
       this.setState((state) => {
