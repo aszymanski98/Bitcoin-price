@@ -9,7 +9,7 @@ This app allows user to check Bitcoin actual price in many currencies, filter th
 * [Sources](#sources)
 
 ## Demo
-Working demo of the project: https://aszymanski98.github.io/Bitcoin-price-ReactJS/
+Working demo of the project: https://aszymanski98.github.io/Bitcoin-price/
 
 ## Features
 * Fully responsive page on computers and mobile devices
